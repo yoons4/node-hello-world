@@ -14,10 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/yoons4/node-hello-world.git"
   },
-  "keyword": {
+  "keyword": [
     "nodejs",
     "heroku"
-  },
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
